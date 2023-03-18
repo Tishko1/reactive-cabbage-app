@@ -1,8 +1,8 @@
 {
-  "name": "reactive-cabbage",
+  "name": "reactive-cabbage-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://OlenaVoroshnina.github.io/reactive-cabbage/",
+  "homepage": "https://Tishko1.github.io/reactive-cabbage-app/",
   "dependencies": {
     "@chakra-ui/tabs": "^2.1.8",
     "@emotion/react": "^11.10.6",
