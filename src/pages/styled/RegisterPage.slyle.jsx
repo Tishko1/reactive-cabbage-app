@@ -28,7 +28,7 @@ export const ContentWrapper = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: left;
+  align-items: center;
 
   @media screen and (min-width: 1280px) {
     width: 100%;
@@ -43,7 +43,7 @@ export const TitleWrap = styled.div`
   flex-direction: column;
   width: 183px;
   margin-bottom: 50px;
-  align-self: flex-start;
+  align-self: center;
 
   @media screen and (min-width: 768px) {
     width: 306px;
